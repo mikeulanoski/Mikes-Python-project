@@ -1,4 +1,55 @@
 # Mikes-Python-project
 # Project for Code Louisville Python/SQL Course Summer 2019.
-In this project, I collected global data on human trafficking. My goal in this project was to answer the question "HOW MANY people are victims of human trafficking across the globe among documented database cases? WHO are they? WHY are they being trafficked? And WHERE are they being trafficked?" My wife and I spent a year in SE Asia working with human trafficking victims, becoming very involved and up to date on the current state of global human trafficking. I collected my data set from Ctdatacollaborative.org which is the single most comprehensive and accurate global dataset about human trafficking victims in the world. This dataset was taken from September 2018, making it very recent in documented data reportings. Being that there are many places in the world where human trafficking is not reported and/or have no ways or means to report, these numbers are far below the actual. Yet, any data in this field is helpful data to help fight against largest form of modern day slavery today--human trafficking.
+Project Title: Measurement of interior noise levels on various cars
+-------------------
+
+Project description:
+
+This project is an examination of the interior noise levels of 27 different car models at idle and at 60 MPH.
+The dataset was downloaded from Kaggle.com and is called car_noise_specification.
+-------------------
+
+Getting Started/Pertinant Files:
+README.md
+
+The Jupyter Notebook file containg the program is:
+Python Project.ipynb
+
+The data file is:
+car_noise_data2.csv
+-------------------
+
+This project exists on Github https://github.com/mikeulanoski/Mikes-Python-project
+-------------------
+Prerequisites
+
+None
+-------------------
+
+Built With:
+
+[Jupyter Notebook]
+-------------------
+
+Data Files:
+car_noise_data2.csv
+-------------------
+
+Author
+
+Mike Ulanoski
+-------------------
+
+License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+-------------------
+
+Acknowledgments
+
+Hat tip to anyone whose code was used
+The Code Louisville team
+The Thursday night Python class team
+John Stokes
+Bret Walker
 
