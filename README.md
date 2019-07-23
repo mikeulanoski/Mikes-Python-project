@@ -25,6 +25,5 @@ Author:
 Mike Ulanoski
 
 Acknowledgments:
-
 Hat tip to anyone whose code was used
 The Thursday night Python class mentors
