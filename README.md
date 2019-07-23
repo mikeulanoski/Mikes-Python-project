@@ -27,7 +27,4 @@ Mike Ulanoski
 Acknowledgments:
 
 Hat tip to anyone whose code was used
-
-The Code Louisville team
-
 The Thursday night Python class mentors
