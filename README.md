@@ -19,7 +19,7 @@ The data file is:
 This project exists on Github https://github.com/mikeulanoski/Mikes-Python-project
 
 Built With:
-[Jupyter Notebook]
+Jupyter Notebook
 
 Author:
 Mike Ulanoski
