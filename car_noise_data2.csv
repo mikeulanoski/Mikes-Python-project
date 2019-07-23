@@ -1,0 +1,57 @@
+Brand + Model,spec,Model Year,dB_at_idle,dB_at_100kmh,Model Year,Body Style,Number of Cylinders,Fuel,Model Drive,Transmission Type,Displacement in Litres,Engine Power (HP),Weight in lbs,Country of Origin
+"Acura
+TL",3.7 V6,2010,39.9,56.2,2010,Sedan,6,Gasoline,AWD,Automatic,3.7,305,3962,USA
+"Audi 
+A8",3.0 TDI,2014,39.7,60.9,2014,Midsize,6,Gasoline - Premium,All Wheel Drive,Automatic,3,328,4365,Germany
+"BMW
+M3",M3,2013,48,67.9,2013,Coupe,8,Gasoline,Rear,6-speed manual,4,408,3704,Germany
+"Buick
+Regal",CXL 2.4,2011,44.5,64.9,2011,Sedan,4,Gasoline,Front,Automatic,2.4,182,3600,USA
+"Cadillac 
+Escalade",6.2 V8,2016,38.4,65.8,2016,SUV,8,Flex-Fuel (Unleaded/E85),Four Wheel Drive,Automatic,6.2,414,12886,USA
+"Chevrolet 
+Corvette",ZR1,2012,54.4,66,2012,Coupe,8,Gasoline,Rear,6-speed manual,6.2,638,3333,USA
+"Chrysler 
+300",300,2011,40.9,60.4,2011,Sedan,8,Gasoline,Rear,Automatic,5.7,363,4270,USA
+"Dodge 
+Ram",5.7 V8,2010,39.2,55.3,2010,Pickup,8,Gasoline,4WD,Automatic,4.7,310,5593,USA
+"Dodge 
+Challenger",SRT8,2011,51.2,66.7,2011,Coupe,8,Gasoline,Rear,Manual,6.4,470,5300,USA
+"Dodge 
+Viper",SRT-10,2008,61.3,75,2008,Roadster,10,Gasoline,Rear,Manual,8.3,499,3530,USA
+"Fiat 
+500",Abarth,2012,49,70.2,2012,Coupe,4,Gasoline,Front,6-speed shiftable automatic,1.4,101,2434,Italy
+"Ford 
+Mustang",GT 5.0 V8,2011,48.6,67.7,2011,Coupe,8,Gasoline,Rear,Manual,5,412,3719,USA
+"GMC 
+Yukon",6.2 V8,2016,42.7,65.6,2016,SUV,8,Flex-Fuel (Unleaded/E85),Four Wheel Drive,Automatic,5.3,350,12225,USA
+"Honda 
+Civic",Si,2012,43.8,66.1,2012,Coupe,4,Gasoline,Front,5-speed automatic,1.8,140,2595,Japan
+"Hyundai 
+Tucson",1.6,2016,33.9,64.3,2016,SUV,4,Gasoline,All Wheel Drive,Automatic,2.4,180,7582,South Korea
+"Jaguar 
+XJ",5.0 V8,2014,40.6,59.2,2014,Large,8,Gasoline - Premium,Rear Wheel Drive,Automatic,5,542,4145,UK
+"Jeep 
+Grand Cherokee",SRT8,2012,48.7,64,2012,SUV,8,Gasoline,4WD,5-speed shiftable automatic,6.4,470,5150,USA
+"Kia 
+Optima",2.0 Hybrid,2013,43.1,64.1,2013,Sedan,4,Gasoline,Front,6-speed automatic,2,270,3391,South Korea
+"Lexus 
+LS",600h L,2009,32.9,61.2,2009,Sedan,8,Gasoline - Premium,4WD,Automatic,5,438,5489,Japan
+"Mazda 
+6",2.2 CiTD Stationcar,2011,43.1,65,2011,Sedan,4,Gasoline,Front,5-speed automatic,2.5,170,3272,Japan
+"Mini 
+Cooper",S Coupe,2011,45.8,69.1,2011,Hatchback,4,Gasoline,Front,Manual,1.6,181,2855,UK
+"Mitsubishi 
+Lancer",Evolution MR,2008,46.5,70.1,2008,Sedan,4,Gasoline - Premium,4WD,Manual,2,276,3395,Japan
+"Nissan 
+370Z",Cabrio,2010,48.1,68.5,2010,Convertible,6,Gasoline,Rear,6-speed manual,3.7,332,3479,Japan
+"Porsche 
+911",Carrera S Cabrio,2012,48.6,73.7,2012,Convertible,6,Gasoline,Rear,7-speed manual,3.8,400,3075,Germany
+"Subaru 
+Forester",2.0 turbo,2013,39.9,63.3,2013,SUV,16,Diesel / Electric Hybrid,AWD,6-speed manual,2.5,168,3263,Japan
+"Toyota 
+Avalon",2.5 Hybrid,2016,39.4,61.4,2016,Midsize,6,Gasoline,Front Wheel Driv,Automatic,3.5,264,7727,Japan
+"Volkswagen 
+Jetta",1.4 Hybrid,2013,34.2,62.3,2013,Sedan,4,Gasoline,Front,7-speed automatic,1.4,148,3318,Germany
+"Volvo 
+XC60",D4,2015,48.9,61.6,2015,SUV,6,Regular Unleaded,All Wheel Drive,Automatic,3,296,9429,Sweden
